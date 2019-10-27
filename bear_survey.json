@@ -1,19 +1,15 @@
 {
   "questions": [
     {
-      "body": "What type of bear is best?",
-      "kind": "free-answer"
-    },
-    {
-      "body": "In a scale of 1 to 10, how cute do you find koalas?",
+      "body": "In a scale of 1 to 10, Will you recommend this college to others?",
       "kind": "numeric"
     },
     {
-      "body": "Do you think bears beat beets?",
+      "body": "What is your gender",
       "kind": "yes-no"
     },
     {
-      "body": "What's the relationship between Battlestar Galactica and bears?",
+      "body": "What’s your year in college?",
       "kind": "free-answer"
     },
     {
