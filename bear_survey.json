@@ -6,11 +6,15 @@
     },
     {
       "body": "What is your gender",
-      "kind": "yes-no"
+      "kind": "male-female"
     },
     {
       "body": "What’s your year in college?",
       "kind": "free-answer"
+    },
+    {
+      "body": "Given a chance are you willing to pursue another course at the college?",
+      "kind": "yes-no"
     },
     {
       "body": "how would you rate this app?",
