@@ -6,7 +6,7 @@
     },
     {
       "body": "What is your gender",
-      "kind": "male-female"
+      "kind": "free-answer"
     },
     {
       "body": "What’s your year in college?",
