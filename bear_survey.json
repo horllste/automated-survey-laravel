@@ -5,15 +5,15 @@
       "kind": "numeric"
     },
     {
-      "body": "What is your gender",
+      "body": "What is your gender? MALE / FEMALE",
       "kind": "free-answer"
     },
     {
-      "body": "What’s your year in college?",
+      "body": "What’s your year in college?1/2/3 or 4",
       "kind": "free-answer"
     },
     {
-      "body": "Given a chance are you willing to pursue another course at the college?",
+      "body": "Given a chance are you willing to pursue another course at the college? YES / NO",
       "kind": "yes-no"
     },
     {
